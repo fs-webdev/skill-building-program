@@ -60,7 +60,9 @@ Suggested Study
 - [Atlassian - Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview)
 - [Pro Git (Free E-Book Online)](http://www.git-scm.com/book/en/v2)
 
+### Tools
 
+ - [glol - Git Log With Graph and Authors](https://github.com/robbyrussell/oh-my-zsh/blob/95371afdd8e94bc9130b6b323a8eecb63a3c71e6/plugins/git/git.plugin.zsh#L173)
 
 -----
 
