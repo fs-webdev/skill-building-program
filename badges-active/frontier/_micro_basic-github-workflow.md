@@ -6,7 +6,7 @@ Goals:
 ------
 
 - You have demonstrated the basic foundations in a Basic Github Workflow.
-- You should be aware of the general way that git and github work, and how we use it at work.
+- You should be aware of the general way that git and Github work, and how we use it at work.
 
 
 Intro
