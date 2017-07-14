@@ -19,8 +19,8 @@ Est. Time to complete: 8-10hr
 
 - [ ] [Develop POJ* Web Components Locally (~3h)](_micro_POJ_webcomponents.md)
 - [ ] [Test Web Components (~2h)](_micro_element_testing.md)
-- [ ] [Publish and Share Web Components (~2h)](_micro_publish_share_elements.md)
-- [ ] [Maintain Production Web Components (~3h)](_micro_maintain_production_elements.md)
+- [ ] [Publish and Share Web Components (~3h)](_micro_publish_share_elements.md)
+- [ ] [Maintain Production Web Components (~2h)](_micro_maintain_production_elements.md)
 
 ### Earn 2 of these:
 
