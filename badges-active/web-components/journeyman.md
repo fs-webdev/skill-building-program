@@ -6,36 +6,29 @@ Est. Time to complete: 8-10hr
 
 -----
 
-
 ## Goal
 - You have demonstrated that you can use the Web Components spec to create both custom and type extension elements, in addition you've attained a basic understanding of one (or more) of the available Web Component Libraries.
 - You have demonstrated that you can produce highly usable, well tested, modular components.
 - You have demonstrated that you can use the different devtools provided for Web Components.
 
-
 -----
-
 
 ## Requirements
 
 ### Earn all of these:
 
-**Element Construction**
-
-- [ ] [POJ* Web Components (~3h)](_micro_POJ_webcomponents.md)
-- [ ] [Web Component Testing (~2h)](_micro_element_testing.md)
-
-**Web Component Devtools**
-
-- [ ] [Vulcanize (~2h)](_micro_vulcanize.md)
+- [ ] [Develop POJ* Web Components Locally (~3h)](_micro_POJ_webcomponents.md)
+- [ ] [Test Web Components (~2h)](_micro_element_testing.md)
+- [ ] [Publish and Share Web Components (~2h)](_micro_maintain_production_elements.md)
+- [ ] [Maintain Production Web Components (~3h)](_micro_publish_share_elements.md)
 
 ### Earn 2 of these:
 
-**Libraries**
+**Web Component Libraries**
 
-- [ ] [Polymer](_micro_polymer.md)
-- [ ] [X-Tag](_micro_x-tag.md)
-- [ ] [SkateJS](_micro_skatejs.md)
+- [ ] [Polymer (~2h)](_micro_polymer.md)
+- [ ] [X-Tag (~2h)](_micro_x-tag.md)
+- [ ] [SkateJS (~2h)](_micro_skatejs.md)
 
 ### Once above are met, then earn 1 of these:
 - [ ] [Web Component Performance (~2h)](_micro_web_component_perf.md)

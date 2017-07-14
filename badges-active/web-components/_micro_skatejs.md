@@ -2,6 +2,8 @@
 
 ------
 
+Est. to complete: 2hrs
+
 ## Goals:
 
 ------

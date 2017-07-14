@@ -1,10 +1,10 @@
 # Web Components - Element Testing [Micro Badge]
 
-------
+-----
+
+Est. to complete: 2hrs
 
 ## Goals:
-
-------
 
 - You have demonstrated an understanding of testing web components
 - You have demonstrated that you can test your own custom elements
@@ -22,12 +22,12 @@
 1) Make a creative project that demonstrates the following:
 - [ ] Unit Testing of Custom Elements
 - [ ] Configuration/Usage of Web Component Tester
+- [ ] A11y testing
 - [ ] Travis-CI integration
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
 3) Something else creative that proves you are totally legit in these topics
-
 
 ---------------
 
@@ -38,9 +38,16 @@
 - [Using ES6 with Polymer (The Polymer Summit 2015)](https://youtu.be/bX3_tN23M_Y?t=14m26s)
 
 ### Web
-- [Test Your Elements](https://www.polymer-project.org/1.0/docs/tools/tests)
+- [Test Your Elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 - [Web Component Tester Github](https://github.com/Polymer/web-component-tester)
 - [Continuous Integration for Web Components with Web Component Tester and Travis CI](https://www.jamiestarke.com/2015/06/10/continuous-integration-polymer-web-component-tester-travis-ci/)
+- [Getting Started with Travis CI](https://docs.travis-ci.com/user/getting-started/)
+- [Online Accessibility Tools](https://accessibility.huit.harvard.edu/tools)
+- [Polymer lint](https://www.polymer-project.org/2.0/docs/tools/polymer-cli-commands#lint)
+
+### Helpful Hints
+
+- For A11y testing on MacOS, toggle preferences using "System Preferences / Accessibility"
 
 -----
 

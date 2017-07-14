@@ -2,9 +2,9 @@
 
 ------
 
-## Goals:
+Est. to complete: 2hrs
 
-------
+## Goals:
 
 - You have demonstrated you understand how to use the Polymer library to make web components
 - You have demonstrated creation of custom elements using this library and understand how it helps in creation of Web Components.
@@ -36,10 +36,14 @@ Choose one:
 
 ## Suggested Study
 
+### Interactive
+- [Polymer 2 Carousel Code Lab](https://codelabs.developers.google.com/codelabs/polymer-2-carousel/)
+
 ### Web
-- [Polymer Official Site](https://www.polymer-project.org/1.0/)
-- [Polymer Feature Overview](https://www.polymer-project.org/1.0/docs/devguide/feature-overview)
-- [Polymer API Documentation](https://www.polymer-project.org/1.0/docs/api/Polymer.Base)
+- [Polymer Official Site](https://www.polymer-project.org)
+- [Quick Tour of Polymer](https://www.polymer-project.org/2.0/start/quick-tour)
+- [Polymer 2 Documentation / Feature Overview](https://www.polymer-project.org/2.0/docs/devguide/feature-overview)
+- [Polymer 2 Cheat Sheet](https://meowni.ca/posts/polymer-2-cheatsheet/)
 
 -----
 

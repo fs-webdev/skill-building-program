@@ -1,20 +1,23 @@
-Web Components - EXPLORER [Micro Badge]
-===================================================
+# Web Components - EXPLORER [Micro Badge]
 
-Goals:
-------
+-----
+
+Est. to complete: 2hrs
+
+## Goals
 
 - You have done some exploration in the Web Components subject fields
 - You have applied this exploration to a practical result, and shared it back with the community
 
-
-Intro
 -----
+
+## Intro
 
 > “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
 
 Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of Web Components! When you're done, pay it forward by sharing your discovery.
 
+-----
 
 Suggested Assignment(s)
 ---------------------

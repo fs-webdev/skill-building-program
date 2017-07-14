@@ -2,9 +2,9 @@
 
 ------
 
-## Goals:
+Est. to complete: 2hrs
 
-------
+## Goals:
 
 - You have demonstrated you understand several different performance techniques for Web Components.
 - You have demonstrated practical application of several of these performance techniques.
@@ -22,6 +22,7 @@
 Choose one:
 
 1) Make a creative project that demonstrates the following:
+- [ ] Web Component Performance Audit
 - [ ] Async Element Loading
 - [ ] Manual FOUC handling
 - [ ] Element Lazy Loading
@@ -42,6 +43,8 @@ Choose one:
 - [Polymer For The Performance Obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
 - [Polymer App First Paint/Loading Demos](https://ebidel.github.io/polymer-experiments/polymersummit/fouc/)
 - [Zuperkul Blog](https://github.com/PolymerLabs/zuperkulblog-progressive)
+- [Shining Light on Performance with Lighthouse](https://afasterweb.com/2017/02/28/shining-light-on-performance-with-lighthouse/)
+- [The SEO Expert's Guide to Web Performance using WebPageTest](https://moz.com/blog/the-seo-experts-guide-to-web-performance-using-webpagetest)
 
 -----
 
