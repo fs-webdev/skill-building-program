@@ -64,6 +64,7 @@ Do your homework, and contribute well-made web components.  Prepare your compone
 - [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
 - [A Beginner's Guide to Webpack 2 and Module Building](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/)
 
+&nbsp;
 
 - [Start an Open Source Project](https://opensource.guide/starting-a-project/)
 - [Open Source Pre-Launch Checklist](https://opensource.guide/starting-a-project/#your-pre-launch-checklist)
