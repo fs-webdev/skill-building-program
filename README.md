@@ -166,7 +166,6 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 ### Skill Building Council
 - Jakob Anderson (Chair): [@spacerockzero](https://github.com/spacerockzero)
 - Logan Allred : [@redbugz](https://github.com/redbugz)
-- Brian Menasco : [@iammenasco](https://github.com/iammenasco)
 - Judd Flamm : [@kd7yva](https://github.com/kd7yva)
 - Tyler Peterson : [@tylerpeterson](https://github.com/tylerpeterson)
 - Steve Olsen : [@steveolyo](https://github.com/steveolyo)
@@ -177,3 +176,4 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 etc to be listed here)
 - [Steven Lambert](https://github.com/straker)
 - [Dallen Loder](https://github.com/dllndv)
+- [Mary Shaw](https://github.com/marybeshaw)
