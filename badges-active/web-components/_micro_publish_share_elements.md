@@ -24,7 +24,7 @@ Do your homework, and contribute well-made web components.  Prepare your compone
 
 ## Suggested Assignment(s)
 
-1) Make a creative project that demonstrates 4 of the following: 
+1) Make a creative project that demonstrates 5 of the following: 
   - [ ] Make sure your component's code is documented well
   - [ ] Add a README.md to your web component
   - [ ] Build your project with Polymer CLI
