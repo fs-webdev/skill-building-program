@@ -25,6 +25,8 @@ Do your homework, and work well with others. If you do that while maintaining ot
 
 ## Suggested Assignment(s)
 
+Choose One:
+
 1) Explain how to do the following: 
   - [ ] Contribute to an existing shared/open source project
   - [ ] Maintain an open source project (tag releases)

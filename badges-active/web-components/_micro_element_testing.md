@@ -19,6 +19,8 @@ Est. to complete: 2hrs
 
 ## Suggested Assignment(s)
 
+Choose One:
+
 1) Make a creative project that demonstrates the following:
 - [ ] Unit Testing of Custom Elements
 - [ ] Configuration/Usage of Web Component Tester
