@@ -37,7 +37,6 @@ Choose one:
 - [JavaScript - The Awful Parts (10m)](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
 - [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 - [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
-- [Type Detection (5m)](http://javascript.info/tutorial/type-detection)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 - [Automatic Semicolon Insertion - StackOverflow](http://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
 - [Automatic Semicolon Insertion - Inimino](http://inimino.org/~inimino/blog/javascript_semicolons)
