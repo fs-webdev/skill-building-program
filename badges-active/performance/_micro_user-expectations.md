@@ -45,6 +45,7 @@ Suggested Study
 - [Free Cookies & Back Massages - an adventure in user expectations](http://slides.com/jakobanderson/free-cookies-and-back-massages) - Jakob Anderson
 - [Performance Matters](http://slides.com/jakobanderson/performance-matters) - Jakob Anderson
 - [Web Performance Optimization Stats](https://wpostats.com/)
+- [The Critical Path](https://css-tricks.com/the-critical-request/) - CSS-Tricks
 
 -----
 
