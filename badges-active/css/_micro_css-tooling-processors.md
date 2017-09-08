@@ -1,5 +1,5 @@
 # CSS - Tooling & Processors [Micro Badge]
-==========================================
+-----
 
 Est. to complete: 2-3h
 
@@ -36,8 +36,8 @@ Choose one:
 - [ ] CSS Post-processors
 - [ ] CSS Linters and Formatters 
 - [ ] Reducing CSS Redundancy and Unused Styles
-- [ ] CSS Minifiers (see also: [CSS Performance micro-badge](../_micro_css-performance.md))
-- [ ] Critical Path CSS Generators (see also: [CSS Performance micro-badge](../_micro_css-performance.md))
+- [ ] CSS Minifiers (see also: [CSS Performance micro-badge](_micro_css-performance.md))
+- [ ] Critical Path CSS Generators (see also: [CSS Performance micro-badge](_micro_css-performance.md))
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
