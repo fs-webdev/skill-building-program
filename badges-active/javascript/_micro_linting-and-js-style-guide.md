@@ -7,6 +7,10 @@ Est. to complete: ~1h
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Linting & the JS Style Guide.
 - You should know about linting rules, leading commas, hoisted vars and the like.
+- You should be able to explain the difference between prettier and eslint. 
+  - Why is every rule fixable in prettier and not eslint?
+  - Which is more customizable?
+  - Are they interchangeable, or should they be used in conjunction?
 
 
 -----
@@ -63,6 +67,7 @@ Choose Two (or more):
 - [http://eslint.org/docs/user-guide/configuring](http://eslint.org/docs/user-guide/configuring.html)
 - [http://eslint.org/docs/user-guide/integrations](http://eslint.org/docs/user-guide/integrations.html)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
+- [Prettier Announcement](http://jlongster.com/A-Prettier-Formatter)
 
 ### Tools
 - [http://eslint.org/](http://eslint.org/)
