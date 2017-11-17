@@ -26,12 +26,12 @@ Suggested Assignment(s)
 Choose one:
 
 1) Read all suggested study items below, and demonstrate and discuss your findings:
-- [ ] Semantic HTML
-- [ ] Headings
-- [ ] Landmark elements
-- [ ] Lists
-- [ ] Forms, Labels, and Fieldsets
-- [ ] Buttons and Links
+  - [ ] Semantic HTML
+  - [ ] Headings
+  - [ ] Landmark elements
+  - [ ] Lists
+  - [ ] Forms, Labels, and Fieldsets
+  - [ ] Buttons and Links
 
 2) Improve the use of semantic HTML in a current project
 
