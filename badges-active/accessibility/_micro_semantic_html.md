@@ -6,8 +6,8 @@ Est. time to complete:
 Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+- You have demonstrated the basic foundations in semantic HTML
+- You should know how to properly use headings, landmark elements, lists, forms, labels, fieldsets, buttons, and links
 
 
 Intro
@@ -23,6 +23,19 @@ By design, HTML is accessible to all users and assistive technologies. It is we 
 Suggested Assignment(s)
 ---------------------
 
+Choose one:
+
+1) Read all suggested study items below, and demonstrate and discuss your findings:
+- [ ] Semantic HTML
+- [ ] Headings
+- [ ] Landmark elements
+- [ ] Lists
+- [ ] Forms, Labels, and Fieldsets
+- [ ] Buttons and Links
+
+2) Improve the use of semantic HTML in a current project
+
+3) Demonstrate how you've done all of #1 in your work or side-work
 
 
 Suggested Study
