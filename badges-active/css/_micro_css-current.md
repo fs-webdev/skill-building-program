@@ -39,6 +39,7 @@ Choose one:
 
 ### Interactive
 
+- [Grid Garden](http://cssgridgarden.com/)
 - [CSS Diner](http://flukeout.github.io/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
