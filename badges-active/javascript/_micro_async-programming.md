@@ -48,6 +48,9 @@ Choose one:
 
 ## Suggested Study
 
+### Books
+- [You Don't Know JS - Async & Performance ](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) (free online book that goes really in depth)
+
 ### Interactive
 
 - [Promise It Won't Hurt - NodeSchool (~1h)](https://github.com/stevekane/promise-it-wont-hurt) (nodeschool-style)
