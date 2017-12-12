@@ -1,7 +1,7 @@
 Accessibility - Screen Readers [Micro Badge]
 ===================================================
 
-Est. time to complete:
+Est. time to complete: 3h
 
 Goals:
 ------
@@ -12,7 +12,7 @@ Goals:
 Intro
 -----
 
-> A screen reader enables blind and vision impaired people to use computers. It reads the text on the screen in a computerised voice. You can control what is read to you by moving the cursor to the relevant area of text with a mouse or the arrows on your keyboard.
+> A screen reader enables blind and vision impaired people to use computers. It reads the text on the screen in a computerised voice. You can control what is read to you by moving the cursor to the relevant area of text with a mouse or the arrows on your keyboard. – [NV Access](https://www.nvaccess.org/)
 
 Screen readers are used by users who are blind, have low vision, are illiterate, or have learning disabilities. Since screen readers read pages differently, it's best to test features using multiple screen readers for maximum compatibility.
 

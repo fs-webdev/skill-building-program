@@ -1,7 +1,7 @@
 Accessibility - Semantic HTML [Micro Badge]
 ===================================================
 
-Est. time to complete:
+Est. time to complete: 1-2h
 
 Goals:
 ------
@@ -13,7 +13,7 @@ Goals:
 Intro
 -----
 
-> A great deal of web content can be made accessible just by making sure the correct HTML elements are used for the correct purpose at all times. - MDN Web Docs
+> A great deal of web content can be made accessible just by making sure the correct HTML elements are used for the correct purpose at all times. – [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
 > Semantic HTML (where the elements are used for their correct purpose) is accessible right out of the box. - MDN Web Docs
 
