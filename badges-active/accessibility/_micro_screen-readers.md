@@ -23,11 +23,11 @@ Choose one:
 
 1) Choose a screen reader (either from the ones listed in the Suggested Study or one of your choosing) and learn to navigate web sites using it, and demonstrate and discuss your findings:
 
-  1. Go to a content site you are familiar with (such as Smashing Magazine) and navigate an article by headings and landmarks. Read some of the article using the screen reader.
+    1. Go to a content site you are familiar with (such as Smashing Magazine) and navigate an article by headings and landmarks. Read some of the article using the screen reader.
 
-  2. Go to [Bankrates Amortization Calculator](http://www.bankrate.com/calculators/mortgages/amortization-calculator-b.aspx#9624570008_variation1) and fill out the form using only the screen reader. Then try to read the amortization schedule using the screen reader.
+    2. Go to [Bankrates Amortization Calculator](http://www.bankrate.com/calculators/mortgages/amortization-calculator-b.aspx#9624570008_variation1) and fill out the form using only the screen reader. Then try to read the amortization schedule using the screen reader.
 
-  3. Go to a site you work on or maintain and without looking at the screen (can even turn it off) go through an important user flow using only the screen reader.
+    3. Go to a site you work on or maintain and without looking at the screen (can even turn it off) go through an important user flow using only the screen reader.
 
 
 Suggested Study
