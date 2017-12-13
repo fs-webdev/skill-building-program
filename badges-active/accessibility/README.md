@@ -8,7 +8,7 @@
 >
 > Web accessibility also benefits people without disabilities. For example, a key principle of Web accessibility is designing Web sites and software that are flexible to meet different user needs, preferences, and situations. This flexibility also benefits people without disabilities in certain situations, such as people using a slow Internet connection, people with "temporary disabilities" such as a broken arm, and people with changing abilities due to aging. – [Introduction to Web Accessibility - W3C](https://www.w3.org/WAI/intro/accessibility.php)
 
-- [Apprentice](Apprentice.md)
+- [Apprentice](apprentice.md)
 - [Journeyman](journeyman.md)
 - [Master](master.md)
 
