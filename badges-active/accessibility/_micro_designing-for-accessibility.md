@@ -13,11 +13,9 @@ Goals:
 Intro
 -----
 
-> Focusing relentlessly on accessibility helps us think of extreme scenarios and ask questions like “how can we make this work eyes free?” and “how can we make this work with the least amount of typing?” Most importantly, it leads to deeper design thinking that solves problems for everyone who uses our sites and products. – [Derek Featherstone](http://www.zeldman.com/2016/11/05/solve-right-problem-derek-featherstone-designing-extremes/)
+> Accessibility is solved at the design stage. - [Dan Na](http://blog.danielna.com/2017/09/14/creating-an-accessibility-engineering-practice.html#accessibility-is-solved-at-the-design-stage)
 
-> The virtue of simplicity is difficult to overestimate. The simpler an interface is, the easier it is to use for all kinds of users. Simpler interfaces require less code to make too, so there’s an obvious performance advantage. There are many design decisions that require user research, but keeping things simple is always the right thing to do. Not simplified or simple-seeming or simplistic, but simple.
->
-> Do a little and do it well, for as many people as you can. – [Heydon Pickering](https://24ways.org/2016/what-the-heck-is-inclusive-design/)
+> When you do not intentionally, deliberately include ... you will unintentionally exclude – [Bryce Johnson](https://twitter.com/ianhamilton_/status/930055121362477058)
 
 
 Suggested Assignment(s)

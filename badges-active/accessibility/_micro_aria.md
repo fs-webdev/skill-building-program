@@ -6,7 +6,7 @@ Est. time to complete: 2-3h
 Goals:
 ------
 
-- You have demonstrated the basic foundations of ARIA
+- You have demonstrated the basic foundations of ARIA.
 - You should have some experience using ARIA and understand when and when not to use it.
 
 
@@ -45,6 +45,7 @@ Suggested Study
 ### Video(s)
 - [Intro to ARIA – A11ycasts](https://www.youtube.com/watch?v=g9Qff0b-lHk)
 - [States and Properties in ARIA – A11ycasts](https://www.youtube.com/watch?v=88tfx3jLV_M)
+- [Alerts! – A11ycasts](https://www.youtube.com/watch?v=5lzAj1ahRSI)
 
 ### Web
 - [Name, State, Role, and Value: What's it all about?](http://www.karlgroves.com/2013/03/02/name-state-role-and-value-whats-it-all-about/)
@@ -60,6 +61,7 @@ Suggested Study
 - [Using the aria-current attribute](https://tink.uk/using-the-aria-current-attribute/)
 - [Enhancing ARIA landmarks with aria-labelledby](https://tink.uk/enhancing-aria-landmarks-with-aria-labelledby/)
 - [Using the aria-invalid attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-invalid_attribute)
+
 
 -----
 

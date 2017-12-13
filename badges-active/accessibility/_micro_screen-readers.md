@@ -6,7 +6,7 @@ Est. time to complete: 3h
 Goals:
 ------
 
-- You have demonstrated how to use a screen reader to navigate a web site
+- You have demonstrated how to use a screen reader to navigate a web site.
 
 
 Intro
