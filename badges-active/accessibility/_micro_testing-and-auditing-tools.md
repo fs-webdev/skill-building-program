@@ -29,17 +29,16 @@ Do both:
 Suggested Study
 ---------------
 
-### Video(s)
-
-## Web
+### Web
 - [Prioritizing Remediation of Web Accessibility Issues](http://www.karlgroves.com/2011/06/12/prioritizing-remediation/)
 
-## Manual Testing
+### Manual Testing
 - [How I do an accessibility check - A11ycasts](https://www.youtube.com/watch?v=cOmehxAU_4s)
 
 ### Automated Testing
 - [The Problem with Automated Website Accessibility Testing Tools](http://www.karlgroves.com/2011/06/12/the-problem-with-automated-testing-tools/)
 - [30 Minutes or Less: The Magic of Automated Accessibility Testing - JSConf](https://www.youtube.com/watch?v=-XUmf_RPF8k)
+- [Writing Automated Tests for Accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
 - [Automated testing with aXe - A11ycasts](https://www.youtube.com/watch?v=jC_7NnRdYb0&t=2s)
 
 ### Automated Testing tools
