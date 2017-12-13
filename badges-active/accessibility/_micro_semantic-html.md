@@ -42,6 +42,7 @@ Suggested Study
 ---------------
 
 ### Video(s)
+- [Why do semantics matter? – A11ycasts](https://www.youtube.com/watch?v=g2tzEil5TL0)
 - [Just use button - A11ycasts](https://www.youtube.com/watch?v=CZGqnp06DnI)
 - [Semantic Basics - Udacity](https://classroom.udacity.com/courses/ud891/lessons/7962141425/concepts/79631116490923)
 

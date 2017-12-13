@@ -33,6 +33,9 @@ Choose one:
 Suggested Study
 ---------------
 
+### Video(s)
+- [Why headings and landmarks are so important – A11ycasts](https://www.youtube.com/watch?v=vAAzdi1xuUY)
+
 ### Web
 - [Testing with Screen Readers](https://webaim.org/articles/screenreader_testing/)
 - [Screen Reader and Browser Combination for Accessibility](http://www.maxability.co.in/2017/02/screen-reader-and-browser-combination-for-accessibility/)
@@ -56,10 +59,12 @@ Suggested Study
 - [Screen Reader Basics: VoiceOver - A11ycasts](https://www.youtube.com/watch?v=5R-6WvAihms)
 - [Using VoiceOver to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/)
 - [VoiceOver commands and gestures](https://www.apple.com/voiceover/info/guide/_1131.html)
+- [Assistive Tech: VoiceOver on iOS – A11ycasts](https://www.youtube.com/watch?v=bCHpdjvxBws)
 
 ### TalkBack (Android)
 - [Get started on Android with TalkBack](https://support.google.com/accessibility/android/answer/6283677?hl=en&ref_topic=3529932)
 - [TalkBack gestures](https://support.google.com/accessibility/android/answer/6151827)
+- [Assistive Tech: TalkBack – A11ycasts](https://www.youtube.com/watch?v=0Zpzl4EKCco)
 
 -----
 
