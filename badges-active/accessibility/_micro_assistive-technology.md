@@ -7,7 +7,7 @@ Goals:
 ------
 
 - Understand that a disability is not a limitation, and that assistive technology brings freedom and autonomy.
-- Understand the needs of people with disabilities (PWD), what problems they face, and the wide array of assistive technology they use.
+- Understand the needs of people with disabilities (PwD), what problems they face, and the wide array of assistive technology they use.
 
 
 Intro
