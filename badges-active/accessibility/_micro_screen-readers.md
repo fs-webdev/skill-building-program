@@ -41,7 +41,7 @@ Suggested Study
 - [Screen Reader and Browser Combination for Accessibility](http://www.maxability.co.in/2017/02/screen-reader-and-browser-combination-for-accessibility/)
 - [Responses To The Screen Reader Strategy Survey](http://www.heydonworks.com/article/responses-to-the-screen-reader-strategy-survey)
 
-### JAWS (Internet Explorer or Edge)
+### JAWS (Internet Explorer and Edge)
 - [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS)
 - [Using JAWS to Evaluate Web Accessibility](https://webaim.org/articles/jaws/)
 - [JAWS keystrokes](http://doccenter.freedomscientific.com/doccenter/archives/training/jawskeystrokes.htm)
@@ -53,7 +53,7 @@ Suggested Study
 - [Screen Reader Basics: NVDA - A11ycasts](https://www.youtube.com/watch?v=Jao3s_CwdRU)
 - [NVDA Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts)
 
-### VoiceOver (Mac Safari or iOS Safari)
+### VoiceOver (Mac Safari and iOS Safari)
 - [VoiceOver](https://www.apple.com/accessibility/mac/vision/)
 - [Enable Tab Key Navigation in Safari](http://osxdaily.com/2011/08/14/enable-tab-key-navigation-safari/)
 - [Screen Reader Basics: VoiceOver - A11ycasts](https://www.youtube.com/watch?v=5R-6WvAihms)

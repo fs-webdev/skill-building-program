@@ -1,7 +1,7 @@
 Accessibility - Semantic HTML [Micro Badge]
 ===================================================
 
-Est. time to complete: 1-2h
+Est. time to complete: 1h
 
 Goals:
 ------
@@ -25,8 +25,7 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Read all suggested study items below, and demonstrate and discuss your findings:
-  - [ ] Semantic HTML
+1) Make a creative project that demonstrates the following semantic HTML techniques:
   - [ ] Headings
   - [ ] Landmark elements
   - [ ] Lists

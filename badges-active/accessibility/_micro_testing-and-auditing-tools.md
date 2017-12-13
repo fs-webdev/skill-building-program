@@ -15,7 +15,6 @@ Intro
 > Web accessibility testing is a subset of usability testing where the users under consideration have disabilities that affect how they use the web. The end goal, in both usability and accessibility, is to discover how easily people can use a web site and feed that information back into improving future designs and implementations. – [Accessibility Testing - W3C](https://www.w3.org/wiki/Accessibility_testing)
 
 
-
 Suggested Assignment(s)
 ---------------------
 

@@ -1,7 +1,7 @@
 Accessibility - ARIA [Micro Badge]
 ===================================================
 
-Est. time to complete: 2-3h
+Est. time to complete: 2h
 
 Goals:
 ------
