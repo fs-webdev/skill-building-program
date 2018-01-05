@@ -33,7 +33,10 @@ Choose one:
 * Which is newer, `0.10.3` or `0.3.10`? (0.10.3)
 * How do you specify ranges in package.json dependencies?
 * What does `"lodash": "*"` do? Should you?
-* How do you add an npm-published dependency?
+* How do you add an npm-published dependency in NPM?
+* How do you add a github-hosted dependency in NPM?
+* How do you semver-minor pin a github-hosted dependency in NPM?
+
 * Demonstrate or explain how to install packages to dependencies or devDependencies sections via CLI, and what the difference is
 * Demonstrate or explain how to install a specific version of a module via CLI
 
