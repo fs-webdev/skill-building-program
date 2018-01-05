@@ -25,6 +25,7 @@ Choose one:
 * How do you initialize an npm package?
 * What should the Major value of a non-production package be?
 * How do you cut a release on GitHub?
+* How should you best communicate your releases?
 * When consuming a package, how do you "pin" to a major, minor, or hardcode to a patch?
 * If you release an API change that can break consumers, what should the SemVer change look like?
 * If you cut a release that breaks more than the SemVer change you indicated, how do you proceed?
@@ -35,7 +36,7 @@ Choose one:
 * What does `"lodash": "*"` do? Should you?
 * How do you add an npm-published dependency in NPM?
 * How do you add a github-hosted dependency in NPM?
-* How do you semver-minor pin a github-hosted dependency in NPM?
+* How do you semver-minor pin a github-hosted dependency in NPM? Which NPM versions support this?
 
 * Demonstrate or explain how to install packages to dependencies or devDependencies sections via CLI, and what the difference is
 * Demonstrate or explain how to install a specific version of a module via CLI
