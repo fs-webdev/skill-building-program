@@ -42,6 +42,7 @@ Choose one:
 - [Grid Garden](http://cssgridgarden.com/)
 - [CSS Diner](http://flukeout.github.io/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Sort Your Friends - Codecademy](https://www.codecademy.com/courses/web-beginner-en-jNuXw/0/1?curriculum_id=50579fb998b470000202dc8b)
 
