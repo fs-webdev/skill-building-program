@@ -16,7 +16,7 @@ Intro
 
 > Semantics is one of the most distinctive features of the Web Platform versus other application platforms. Developers usually ignore or de-prioritize such feature but the mastery of it can bring many benefits to our projects. 
 
-> The Web is text and text has a meaning. Ultimately the content that our browsers read is pure text. Web sites and web applications have been created in an ecosystem where text based content is linkable, searchable and mashable. In the open web scenario our content can be shown, fed and remixed by third parties, search engines and accessibility tools. All these benefits don't come for free. Automated tools can only do half of the job at recognizing the nature of the content. The better job the developer does at marking the right semantics of the content - [HTML5 Rocks](http://www.html5rocks.com/en/features/semantics)
+> The Web is text and text has a meaning. Ultimately the content that our browsers read is pure text. Web sites and web applications have been created in an ecosystem where text based content is linkable, searchable and mashable. In the open web scenario our content can be shown, fed and remixed by third parties, search engines and accessibility tools. All these benefits don't come for free. Automated tools can only do half of the job at recognizing the nature of the content. The better job the developer does at marking the right semantics of the content the easier it will be for the rest of the agents to deal with it. - [HTML5 Rocks](http://www.html5rocks.com/en/features/semantics)
 
 
 
