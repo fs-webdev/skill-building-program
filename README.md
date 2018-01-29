@@ -57,6 +57,11 @@ other
   [[Apprentice](badges-active/web-components/apprentice.md),
   [Journeyman](badges-active/web-components/journeyman.md),
   [Master](badges-active/web-components/master.md)]
+  - V2: Accessibility
+  [[Apprentice](badges-active/accessibility/apprentice.md),
+  [Journeyman](badges-active/accessibility/journeyman.md),
+  [Master](badges-active/accessibility/master.md)]
+
 
 
 -----
