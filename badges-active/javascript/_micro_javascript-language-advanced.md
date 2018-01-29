@@ -74,6 +74,7 @@ Choose one:
 ### Web
 
 - [Learning Advanced JavaScript - John Resig](http://ejohn.org/apps/learn/)
+- [JS Things I Never Knew Existed](https://air.ghost.io/js-things-i-never-knew-existed/)
 
 #### IIFE's
 

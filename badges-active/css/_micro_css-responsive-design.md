@@ -72,6 +72,7 @@ Choose one:
 - [The Principles of Adaptive Design - Brad Frost (This is a different "Adaptive Design")](http://bradfrost.com/blog/post/the-principles-of-adaptive-design/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Responsive Design Examples - Designmodo](http://designmodo.com/responsive-design-examples/)
+- [Anatomy of Responsive Images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
 #### Mistakes to Avoid
 

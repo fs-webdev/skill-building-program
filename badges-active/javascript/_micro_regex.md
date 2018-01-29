@@ -22,7 +22,7 @@ Est. to complete: 1.5h
 ## Suggested Assignment
 Choose One:
 
-1) Watch this amazing video from Lea Verou – [Demystifying Regular Expressions (48m)](https://www.youtube.com/watch?v=EkluES9Rvak)
+1) Watch this amazing video from Lea Verou – [Demystifying Regular Expressions (48m)](https://www.youtube.com/watch?v=EkluES9Rvak) OR this fun video series on RegEx from Coding Train [Session 2: Regular Expressions - Programming with Text](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 
 2) Work through the lessons on [RegexOne](http://regexone.com/)
 
@@ -56,6 +56,10 @@ Bonus (extremely difficult)
 ### Regex Testers
 - [RegExr](http://regexr.com/)
 - [Debuggex](https://www.debuggex.com/)
+
+### Video
+- [Demystifying Regular Expressions (48m)](https://www.youtube.com/watch?v=EkluES9Rvak)
+- [Session 2: Regular Expressions - Programming with Text](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 
 ### Web
 - [Regular Expressions: Now You Have Two Problems](http://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)

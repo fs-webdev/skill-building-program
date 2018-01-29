@@ -62,6 +62,7 @@ Suggested Study
 - [Introduction to Gulp.js](https://github.com/kogakure/gulp-tutorial)
 - [Gulp Tutorial - Zellwk.com](http://zellwk.com/blog/gulp-tutorial/)
 - [Automate your tasks easily with Gulp.js - Scotch.io](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
+- [Learning Gulp - Learning with JB](http://learningwithjb.com/guides/learning-gulp)
 
 
 -----
