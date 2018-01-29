@@ -49,6 +49,7 @@ Suggested Study
 - [Name, State, Role, and Value: What's it all about?](http://www.karlgroves.com/2013/03/02/name-state-role-and-value-whats-it-all-about/)
 - [HTML5 Accessibility](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
 - [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412)
+- [The Importance of Sections](https://www.smashingmagazine.com/2013/01/the-importance-of-sections/)
 - [Using navigation landmarks](https://accessibility.blog.gov.uk/2016/05/27/using-navigation-landmarks/)
 - [Using headings to improve accessibility](https://www.drupal.org/docs/7/creating-accessible-themes/using-headings-to-improve-accessibility)
 - [Use semantic markup for lists](https://fae.disability.illinois.edu/rulesets/LIST_1/)

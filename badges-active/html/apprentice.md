@@ -22,7 +22,7 @@ Estimated time: ~4.5h
 
 **Elements**
 
-- [ ] [Semantic HTML5 Elements (~0.5h)](_micro_semantic-html5-elements.md)
+- [ ] [Semantic HTML (~1h)](../accessibility/_micro_semantic-html.md)
 - [ ] [Picture Element & srcset (~1h)](_micro_picture-element-srcset.md)
 - [ ] [SVG (~1h)](_micro_svg.md)
 
