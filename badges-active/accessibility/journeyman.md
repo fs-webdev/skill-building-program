@@ -27,8 +27,8 @@ Estimated time: 9-10h
 
 ### Once above are met, earn 1 of these:
 
-- [AccessibilitySS Explorer (~1h)](_micro_EXPLORER.md)
-- [AccessibilitySS Industry Leader Research (~1h)](_micro_industry-leader-research.md)
+- [Accessibility Explorer (~1h)](_micro_EXPLORER.md)
+- [Accessibility Industry Leader Research (~1h)](_micro_industry-leader-research.md)
 
 -----
 
