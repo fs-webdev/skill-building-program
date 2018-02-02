@@ -41,7 +41,7 @@ Suggested Study
 - [Screen Reader and Browser Combination for Accessibility](http://www.maxability.co.in/2017/02/screen-reader-and-browser-combination-for-accessibility/)
 - [Responses To The Screen Reader Strategy Survey](http://www.heydonworks.com/article/responses-to-the-screen-reader-strategy-survey)
 
-### JAWS (Internet Explorer and Edge)
+### JAWS (Chrome, FireFox, Internet Explorer, and Edge)
 - [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS)
 - [Using JAWS to Evaluate Web Accessibility](https://webaim.org/articles/jaws/)
 - [JAWS keystrokes](http://doccenter.freedomscientific.com/doccenter/archives/training/jawskeystrokes.htm)
