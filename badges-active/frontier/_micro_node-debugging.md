@@ -34,7 +34,7 @@ Suggested Study
 
 ### Podcast
 
-- [NodeUp - A Debugging Show](http://nodeup.com/)
+- [NodeUp - A Debugging Show](http://nodeup.com/twentyone)
 - [NodeUp - A Performance Show](http://nodeup.com/fortyfive)
 
 
