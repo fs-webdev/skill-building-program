@@ -37,7 +37,7 @@ Suggested Study
 - [Accessibility UX Insights: Designing for the Next Billion Users - Google IO 2017](https://www.youtube.com/watch?v=38fbB8wCPzg)
 
 ### Web
-- [Designing for Accessibility and Inclusion](https://docs.google.com/presentation/d/1N8I_LDqg-0jm6502tmL9bfa3CDdDHZd_iF-p3SS6KfM/edit?usp=sharing)
+- [Designing for Accessibility and Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 - [What the Heck Is Inclusive Design?](https://24ways.org/2016/what-the-heck-is-inclusive-design/)
 - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 - [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
