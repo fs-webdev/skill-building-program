@@ -30,7 +30,7 @@ There are two main ways we enforce consistent code. Code Linting and Language St
 Choose Two (or more):
 
 1) Implement ESLint in your editor
-  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/fs-javascript/tree/master/linters)
+  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/eslint-config-frontier)
   - [ ] Install it in your project
   - [ ] Make your own .eslintrc config file in the root of your project that extends to FS .eslintrc file. See:  [http://eslint.org/docs/user-guide/configuring#extending-configuration-files](http://eslint.org/docs/user-guide/configuring.html)
   - [ ] Make your own .eslintignore file, and configure it to fit your project. See: [http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories](http://eslint.org/docs/user-guide/configuring.html)
@@ -38,7 +38,7 @@ Choose Two (or more):
   - [ ] Demonstrate some code you've fixed after using ESLint
 
 2) Implement ESLint in your dev-time CI tests
-  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/fs-javascript/tree/master/linters)
+  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/eslint-config-frontier)
   - [ ] Install it in your project
   - [ ] Make your own .eslintrc config file in the root of your project that extends to FS .eslintrc file. See:  [http://eslint.org/docs/user-guide/configuring#extending-configuration-files](http://eslint.org/docs/user-guide/configuring.html)
   - [ ] Make your own .eslintignore file, and configure it to fit your project. See: [http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories](http://eslint.org/docs/user-guide/configuring.html)
@@ -46,7 +46,7 @@ Choose Two (or more):
   - [ ] Demonstrate some code you've fixed after using ESLint
 
 3) Implement ESLint in your deploy-time tests
-  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/fs-javascript/tree/master/linters)
+  - [ ] [Grab the FS .eslintrc config repo](https://github.com/fs-webdev/eslint-config-frontier)
   - [ ] Install it in your project
   - [ ] Make your own .eslintrc config file in the root of your project that extends to FS .eslintrc file. See:  [http://eslint.org/docs/user-guide/configuring#extending-configuration-files](http://eslint.org/docs/user-guide/configuring.html)
   - [ ] Make your own .eslintignore file, and configure it to fit your project. See: [http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories](http://eslint.org/docs/user-guide/configuring.html)
@@ -59,11 +59,9 @@ Choose Two (or more):
 ## Suggested Study
 
 ### Web
-- [FS JS Style Guide](https://github.com/fs-webdev/fs-javascript/)
-- [FS JS Style linters: eslintrc](https://github.com/fs-webdev/fs-javascript/tree/master/linters)
-- [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
+- [FS JS Style Guide](https://github.com/fs-webdev/eslint-config-frontier)
+- [FS JS Style linters: eslintrc](https://github.com/fs-webdev/eslint-config-frontier)
 - [Idiomatic JS Style Guide](https://github.com/rwaldron/idiomatic.js/)
-- [Google JS Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 - [http://eslint.org/docs/user-guide/configuring](http://eslint.org/docs/user-guide/configuring.html)
 - [http://eslint.org/docs/user-guide/integrations](http://eslint.org/docs/user-guide/integrations.html)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
