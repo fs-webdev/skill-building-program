@@ -5,7 +5,7 @@ V2 Skills Building Program
 
 - We accept pull requests
 - Everything here is subject to change and improve over time, due to peer review
-- Want to make new skills content? [Here's how to get started!](how-to-make-content.md)
+- Want to make new skills content? [Here's how to get started!](https://github.com/fs-webdev/skill-building-program/blob/master/how-to-make-content.md)
 
 
 -----
@@ -32,42 +32,42 @@ other
 ## News and Updates:
 
 ## Badges
-- [Currently Active](badges-active/ "Currently Active Badges")
+- [Currently Active](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/ "Currently Active Badges")
   - V2: Frontier (private)
   [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Apprentice),
   [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Master)]
   - V2: HTML5
-  [[Apprentice](badges-active/html/apprentice.md),
-  [Journeyman](badges-active/html/journeyman.md),
-  [Master](badges-active/html/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/html/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/html/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/html/master.md)]
   - V2: CSS
-  [[Apprentice](badges-active/css/apprentice.md),
-  [Journeyman](badges-active/css/journeyman.md),
-  [Master](badges-active/css/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/css/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/css/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/css/master.md)]
   - V2: JavaScript
-  [[Apprentice](badges-active/javascript/apprentice.md),
-  [Journeyman](badges-active/javascript/journeyman.md),
-  [Master](badges-active/javascript/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/javascript/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/javascript/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/javascript/master.md)]
   - V2: Performance
-  [[Apprentice](badges-active/performance/apprentice.md),
-  [Journeyman](badges-active/performance/journeyman.md),
-  [Master](badges-active/performance/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/master.md)]
   - V2: Web Components
-  [[Apprentice](badges-active/web-components/apprentice.md),
-  [Journeyman](badges-active/web-components/journeyman.md),
-  [Master](badges-active/web-components/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/web-components/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/web-components/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/web-components/master.md)]
   - V2: Accessibility
-  [[Apprentice](badges-active/accessibility/apprentice.md),
-  [Journeyman](badges-active/accessibility/journeyman.md),
-  [Master](badges-active/accessibility/master.md)]
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/accessibility/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/accessibility/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/accessibility/master.md)]
 
 
 
 -----
 <!-- Insert newest badges into table below. Newest on left, up to 5 at once -->
 <!-- ## Newest Active Badges
-[Performance Journeyman](badges-active/performance/journeyman.md) | [Performance Apprentice](badges-active/performance/apprentice.md)
+[Performance Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md) | [Performance Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
 ----------------------------------------------------------------- | -----------------------------------------------------------------
 ![Performance Journeyman Badge Image](img/badges/perf-journeyman-md.png "Performance Apprentice Badge Image") | ![Performance Apprentice Badge Image](img/badges/perf-apprentice-md.png "Performance Apprentice Badge Image")
 
@@ -159,8 +159,8 @@ skills that are helpful to the org and aren't currently in progress in this
 repo, collaborate around them with your peers in the fs-vote app under the "Next Skill Program Badge to Create" category [FS Training Voter App](https://fs-vote.herokuapp.com/?cat=next-skill-badge), and we'll add them to the issues to chat about the content
 - If you have great ideas for fun example projects to build in the badge
 assignments, [fork this repo and give us a pull request!](https://github.com/fs-webdev/skill-building-program/fork "Fork this repo")
-- [Learn how to make content for the Skill Building Program](how-to-make-content.md)
-- [Read the style guide](style-guide.md "Style Guide") for recommendations on formatting
+- [Learn how to make content for the Skill Building Program](https://github.com/fs-webdev/skill-building-program/blob/master/how-to-make-content.md)
+- [Read the style guide](https://github.com/fs-webdev/skill-building-program/blob/master/style-guide.md "Style Guide") for recommendations on formatting
 
 
 -----
