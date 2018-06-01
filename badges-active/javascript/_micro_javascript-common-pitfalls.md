@@ -23,7 +23,7 @@ JavaScript is well-known for being strangely inconsistent about a few things. Ma
 ## Suggested Assignment(s)
 Choose one:
 
-1) Study common pitfals, and their proven solutions:
+1) Study common pitfalls, and their proven solutions:
   - [ ] Read and watch the suggested study materials below
   - [ ] Demonstrate and discuss afterwards
 
@@ -34,7 +34,7 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [JavaScript - The Awful Parts (10m)](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
+- [JavaScript - The Awful Parts (10m)](https://web.archive.org/web/20171110044203/http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
 - [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 - [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
