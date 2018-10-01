@@ -13,7 +13,7 @@ Est. to complete: ~0.5h
 
 ## Intro
 
->Design Patterns are reusable solutions to commonly occurring problems in software design. [...] they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve.
+>Design Patterns are reusable solutions to commonly occurring problems in software design. [...] they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve. - [Addy Osmani - Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 There are a few very common patterns in JavaScript. Knowing these can help you solve problems faster, more efficiently, and have a shared vocabulary for communicating with others about your code.
 
