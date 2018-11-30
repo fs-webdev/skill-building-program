@@ -52,7 +52,7 @@ Choose one:
 
 #### Auditing / Profiling
 
-  - [Get Started With Analyzing Runtime Performance - Google Developer Guide](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/)
+  - [Get Started With Analyzing Runtime Performance - Google Developer Guide](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
   - [Analyze Runtime Performance in Chrome Dev Tools - Google Developer Guide](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/)
   - [Easy Profiling for Node.js Applications - NodeJS](https://nodejs.org/en/docs/guides/simple-profiling/)
 
