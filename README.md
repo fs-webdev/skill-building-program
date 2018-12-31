@@ -86,12 +86,12 @@ other
 You can pass off badges with any discipline manager or master in that Skill area.
 
 Current V2 Masters:
-- Frontier:
+- Frontier: Jakob Anderson, Logan Allred, Joey Cozza
 - HTML5:
 - CSS:
 - JavaScript:
 - Testing:
-- Performance: Joe Podwys, Jakob Anderson
+- Performance: Jakob Anderson
 
 
 -----
@@ -104,13 +104,13 @@ number of categories!
 We have the ability to earn badges in the following levels:
 
 - Apprentice
-- Journeyman
+- Journey
 - Master
 
 ### Apprentice
 You are getting your feet wet and gaining basic literacy in a skill category. You will use study materials to prove a basic knowledge of a skill. You will also be proving your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges. Expect 3-6hrs spent per apprentice badge.
 
-### Journeyman
+### Journey
 You are actively applying your knowledge to produce quality code in new and creative ways. You are also demonstrating your knowledge of advanced concepts in your production code. As an alternative to project work, a developer can use previous project or production work to pass this level's badges. Expect 8-16hrs spent per Journeyman badge.
 
 ### Master
@@ -125,7 +125,7 @@ You have permission to spend up to 10% of your work time on training. This means
 
 
 ## Skills Workshops
-About every two weeks, we hold a skills workshop, for about 2 hours. We have an instructor-led, interactive session to educate and get these badges passed off together. We choose the next workshop's topic with this app in the "Next Skills Workshop" category. - [FS Training Voter App](https://fs-vote.herokuapp.com/?cat=next-skill-workshop)
+About every two weeks, we hold a skills workshop, for about 2 hours. We have an instructor-led, interactive session to educate and get these badges passed off together
 
 -----
 
@@ -171,7 +171,6 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 ### Skill Building Council
 - Jakob Anderson (Chair): [@spacerockzero](https://github.com/spacerockzero)
 - Logan Allred : [@redbugz](https://github.com/redbugz)
-- Judd Flamm : [@kd7yva](https://github.com/kd7yva)
 - Tyler Peterson : [@tylerpeterson](https://github.com/tylerpeterson)
 - Steve Olsen : [@steveolyo](https://github.com/steveolyo)
 - Marlin Benson : [@mbenson24](https://github.com/mbenson24)
@@ -179,6 +178,7 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 ### Peer Contributors:
 - (Make significant contributions of great ideas, curriculum, content, edits,
 etc to be listed here)
+- [Josh Crowther](https://github.com/jshcrowthe)
 - [Steven Lambert](https://github.com/straker)
 - [Dallen Loder](https://github.com/dllndv)
 - [Mary Shaw](https://github.com/marybeshaw)
