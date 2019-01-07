@@ -39,10 +39,10 @@ Suggested Study
 
 - [Speed, Performance, and Human Perception](https://medium.com/@jakob_anderson/speed-performance-and-human-perception-70ae83ea144e) (video, notes) - Ilya Grigorik
 - [An Introduction to Perceived Performance | Treehouse Blog](http://blog.teamtreehouse.com/perceived-performance)
-- [Chapter 10. Primer on Web Performance - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1230000000545/ch10.html) - Ilya Grigorik
+- [Chapter 10. Primer on Web Performance - O&#39;Reilly Media](https://hpbn.co/primer-on-web-performance/) - Ilya Grigorik
 - [Mobile stress: Slower web pages lead to increased user frustration](http://www.webperformancetoday.com/2013/12/11/slower-web-pages-user-frustration/) - Radware
 - [End-Users&#39; Web Experience Expectations Just Keep Getting Higher](https://blogs.akamai.com/2012/11/end-users-web-experience-expectations-just-keep-getting-higher.html) - Akamai
-- [Free Cookies & Back Massages - an adventure in user expectations](http://slides.com/jakobanderson/free-cookies-and-back-massages) - Jakob Anderson
+- [Free Cookies - an adventure in user expectations](http://slides.com/jakobanderson/free-cookies-and-back-massages) - Jakob Anderson
 - [Performance Matters](http://slides.com/jakobanderson/performance-matters) - Jakob Anderson
 - [Web Performance Optimization Stats](https://wpostats.com/)
 - [The Critical Path](https://css-tricks.com/the-critical-request/) - CSS-Tricks
