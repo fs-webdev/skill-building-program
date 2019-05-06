@@ -1,7 +1,5 @@
 # React - Apprentice
 
-![{Skill Category} - Apprentice Badge](../img/badges/perf-apprentice-md.png "React Master badge")(change to your badge image, with the appropriate badge-level marks)
-
 Estimated time: 4hr
 
 -----
@@ -12,11 +10,13 @@ Estimated time: 4hr
 
 
 ## Requirements
-*(These should be based on child microbadges, and can have some flexibility in the badges required.)*
 
 ### Earn all of these:
   - [ ] Watch Kent C. Dodds' [Intro to React You've Been Missing](https://youtu.be/SAIdyBFHfVU)
   - [ ] Read all 12 [Main Concepts](https://reactjs.org/docs/hello-world.html) from Reacts Homepage
+    - Be prepared to explain some of the concepts that are taught here
+  - [ ] Go through Kent C Dodds' [Learn-React](https://github.com/fs-webdev/learn-react) guided approach.
+    The README explains how to get setup and where to start
 
 -----
 

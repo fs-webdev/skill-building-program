@@ -1,6 +1,5 @@
 # React - Master Badge
 
-![React - Master Badge](../img/badges/perf-master-md.png "React Master badge")
 -----
 
 

@@ -1,7 +1,5 @@
 # React - Journeyman
 
-![React - Journeyman](../img/badges/perf-journeyman-md.png "React Journeyman badge")
-
 Estimated time: 15hr
 
 -----
@@ -13,11 +11,11 @@ Estimated time: 15hr
 ## Requirements
 
 ### Earn all of these:
-  - [ ] Go through Kent C Dodds' [Learn-React](https://github.com/kentcdodds/learn-react/tree/familysearch) guided approach.
-  The README explains how to get setup and where to start
-  - [ ] Read through 8 of the possible 21 [Advanced Guides](https://reactjs.org/docs/accessibility.html) on React's Docs pages and
-  be prepared to explain what you learned
+  - [ ] Read through 8 of the possible 21 [Advanced Guides](https://reactjs.org/docs/accessibility.html) on React's Docs pages 
+    Be prepared to explain what you learned
   - [ ] Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) on React's Docs pages.
+  - [ ] [Frontier React Training Final Project (~8h)](_micro_final_project.md)
+    - Note: If you haven't set up your machine to work with the FamilySearch stack, follow [this guide](https://www.familysearch.org/frontier/docs/start/setup)
 
 -----
 
