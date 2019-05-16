@@ -7,7 +7,7 @@ Goals:
 ------
 
 - You have demonstrated basic foundational knowledge in Device Access Browser APIs.
-- You should have some experience using several features of HTML5 Device Access APIs, including Touch Events, Geolocation, Device Orientation, Vibration, Ambient Light, Proximity, and Battery Status APIs.
+- You should have some experience using several features of HTML5 Device Access APIs, including Touch Events, Geolocation, Device Orientation, Vibration, Ambient Light, and Proximity APIs.
 
 
 Intro
@@ -29,7 +29,6 @@ Choose one:
 - [ ] Vibration
 - [ ] Ambient Light
 - [ ] Proximity
-- [ ] Battery Status
  
 2) Demonstrate how you've done nearly all of #1 in your work or side-work
 
@@ -38,14 +37,6 @@ Choose one:
 
 Suggested Study
 ---------------
-
-### Interactive 
-
-- [Battery Status - jsfiddle](http://jsfiddle.net/0GiS0/pdtsf/)
-
-
------
-
 
 ### Web
 
@@ -98,20 +89,6 @@ Suggested Study
   - [Introducing Proximity API](http://www.sitepoint.com/introducing-proximity-api/)
   - [Proximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
   - [The Proximity API - Mozilla Hacks](https://hacks.mozilla.org/2013/06/the-proximity-api/)
-
-#### Battery Status
-
-  - [Battery Status - Browser APIs](http://browserapis.wtf/browserapis/batterystatus.html)
-  - [Battery Status API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
-  - [Battery API - DAvid Walsh](https://davidwalsh.name/battery-api)
-  - [HTML5 The Battery Status API - Tuts+](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
-  - [The Battery Status API - Kirupa](https://www.kirupa.com/html5/the_battery_status_api_js.htm)
-  [Using the Battery Status Api to Optimize Your Development - Sitepoint](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/)
-  - [How to Access the Battery Status - dZone](https://dzone.com/articles/how-access-battery-status)
-  - [BatteryManager API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/BatteryManager)
-  - [Let's Get Charged: Updates to the Battery Status Api - Mozilla Hacks](https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/)
-  - [Battery Status API - Web Platform](http://docs.webplatform.org/wiki/apis/battery_status)
-  - [Battery API - Steve Edson](https://steveedson.co.uk/html5/battery-api/)
 
 
 -----
