@@ -14,8 +14,7 @@ Estimated time: 15hr
   - [ ] Read through 8 of the possible 21 [Advanced Guides](https://reactjs.org/docs/accessibility.html) on React's Docs pages 
     Be prepared to explain what you learned
   - [ ] Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) on React's Docs pages.
-  - [ ] [Frontier React Training Final Project (~8h)](_micro_final_project.md)
-    - Note: If you haven't set up your machine to work with the FamilySearch stack, follow [this guide](https://www.familysearch.org/frontier/docs/start/setup)
+  - [ ] [Frontier React Training Final Project (~8h)(Private)](https://almtools.ldschurch.org/fhconfluence/display/WD/React+Final+Project+Micro+Badge)
 
 -----
 
