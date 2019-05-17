@@ -15,6 +15,3 @@ Here's a [guide on writing on Github](https://help.github.com/articles/writing-o
 - Try to keep all critical hyperlinks publicly available locations, since this public repo is meant to also be read by those outside our org.
 
 - Try to keep all wording non-specific to our org, since the repo is meant to be open-source first, and used by those outside our org.
-
-
-
