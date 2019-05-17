@@ -33,6 +33,10 @@ other
 
 ## Badges
 - [Currently Active](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/ "Currently Active Badges")
+  - V2: React
+  [[Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/react/apprentice.md),
+  [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/react/journeyman.md),
+  [Master](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/react/master.md)]
   - V2: Frontier (private)
   [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Apprentice),
   [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Journeyman),
