@@ -90,6 +90,7 @@ other
 You can pass off badges with any discipline manager or master in that Skill area.
 
 Current V2 Masters:
+- React: 
 - Frontier: Jakob Anderson, Logan Allred, Joey Cozza
 - HTML5:
 - CSS:
@@ -158,8 +159,7 @@ This project is designed to be open-source to the Web Development discipline
 members. We really want and invite your input and contributions to make this
 program effective and exciting for everyone.
 
-- If you have great ideas for new
-skills that are helpful to the org and aren't currently in progress in this
+- If you have great ideas for new skills that are helpful to the org and aren't currently in progress in this
 repo, collaborate around them with your peers in the fs-vote app under the "Next Skill Program Badge to Create" category [FS Training Voter App](https://fs-vote.herokuapp.com/?cat=next-skill-badge), and we'll add them to the issues to chat about the content
 - If you have great ideas for fun example projects to build in the badge
 assignments, [fork this repo and give us a pull request!](https://github.com/fs-webdev/skill-building-program/fork "Fork this repo")
@@ -180,9 +180,9 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 - Marlin Benson : [@mbenson24](https://github.com/mbenson24)
 
 ### Peer Contributors:
-- (Make significant contributions of great ideas, curriculum, content, edits,
-etc to be listed here)
+- (Make significant contributions of great ideas, curriculum, content, edits, etc to be listed here)
 - [Josh Crowther](https://github.com/jshcrowthe)
 - [Steven Lambert](https://github.com/straker)
 - [Dallen Loder](https://github.com/dllndv)
 - [Mary Shaw](https://github.com/marybeshaw)
+- [Joey Cozza](https://github.com/joeycozza)
