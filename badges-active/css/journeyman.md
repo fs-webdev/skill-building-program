@@ -35,6 +35,10 @@ Estimated time: 7-11h
 - [CSS Explorer (~1h)](_micro_EXPLORER.md)
 - [CSS Industry Leader Research (~1h)](_micro_industry-leader-research.md)
 
+## Suggested Study
+
+### Web
+[Material Design](https://material.io/)
 
 -----
 
