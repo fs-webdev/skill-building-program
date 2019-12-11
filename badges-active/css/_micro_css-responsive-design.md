@@ -29,7 +29,7 @@ Choose one:
 
 1) Make a creative project with content and elements that explain and demonstrates the following:
 - [ ] How the Dao of Web Design considers content and the styling of it
-- [ ] The main elements of Responsive Web Design
+- [ ] The main elements of Responsive Web Design (RWD)
 - [ ] The difference between Responsive and Adaptive Web Design
 - [ ] The difference between relative units and static units
 - [ ] Proficient and appropriate use of media queries in html, css, and with different media types
