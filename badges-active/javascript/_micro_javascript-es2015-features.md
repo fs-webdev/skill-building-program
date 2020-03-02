@@ -51,7 +51,7 @@ Choose one:
 - [Tower of Babel: ES6 Features](https://github.com/yosuke-furukawa/tower-of-babel) (nodeschool-style)
 - [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) (nodeschool-style)
 - [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) (nodeschool-style)
-- [ES6 Katas: TDD-style ES6 exercises](http://es6katas.org/)
+- [ES6 Katas: TDD-style ES6 exercises](https://jskatas.org/#bundle-es6-katas)
 
 ### Slidedecks
 
