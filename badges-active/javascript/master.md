@@ -36,6 +36,7 @@
 
 ## Current JavaScript Masters:
 
+- [Kyle West](https://github.com/kyle-west)
 
 -----
 
