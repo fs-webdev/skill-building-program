@@ -62,6 +62,7 @@ Choose one:
   - [What is the best way to run expensive code in JavaScript without freezing up the UI - Quora](https://www.quora.com/What-is-the-best-way-to-run-expensive-code-in-JavaScript-without-freezing-up-the-UI?share=1)
   - [Function Call Profiling - E John](http://ejohn.org/blog/function-call-profiling/)
   - [Also See: Skill-Building-Program: Rendering Performance micro-badge](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/_micro_rendering-performance.md)
+  - [Faster apps with JSON.parse (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=ff4fgQxPaO0)
 
 #### Timing things
 
