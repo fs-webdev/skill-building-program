@@ -32,6 +32,7 @@ Choose one:
   - [ ] Step through code
   - [ ] Break on a DOM event
   - [ ] Demonstrate and discuss afterwards
+  - [ ] (Bonus) Use a framework debugging tool 
 
 
 -----
@@ -48,6 +49,10 @@ Choose one:
 ### Video
 - [Debugging in Chrome Console](http://www.youtube.com/watch?v=asLAQrfMhyM)
 - [Debugging in Firefox Console](https://youtu.be/sK8KU8oiF8s)
+
+### Tools
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Polyspector](https://chrome.google.com/webstore/detail/polyspector/naoehbibkfilaolkmfiehggkfjndlhpd?hl=en)
 
 -----
 
