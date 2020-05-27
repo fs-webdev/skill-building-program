@@ -6,7 +6,7 @@ Est. to complete: 2h
 
 ## Goal
 - You have demonstrated the basic foundations of some advanced features in JavaScript
-- You should have some experience using IIFE's, Closures, Function Chaining, and Prototypal Inheritance
+- You should have some experience using IIFE's (Immediately Invoked Function Expression), Closures, Function Chaining, and Prototypal Inheritance
 
 
 -----
