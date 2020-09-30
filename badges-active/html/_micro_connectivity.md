@@ -73,6 +73,7 @@ Suggested Study
 #### Server-sent Events
 
   - [Server-sent Events - Can I Use?](http://caniuse.com/#search=server-sent%20events)
+  - [SSE: Quick Node/Express example](https://www.digitalocean.com/community/tutorials/nodejs-server-sent-events-build-realtime-app)
   - [Using Server-sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
   - [Event Stream Format - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#Event_stream_format)
   - [Stream Updates With Server-Sent Events - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/eventsource/basics/)
