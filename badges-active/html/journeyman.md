@@ -3,7 +3,7 @@
 {{ New badge image goes here }}
 <!-- TODO: design new V2 HTML badge before this releases -->
 
-Estimated time: ~15h
+Estimated time: ~19h
 
 -----
 
@@ -29,7 +29,7 @@ Estimated time: ~15h
 - [ ] [Storage (~2h)](_micro_storage.md)
 - [ ] [Integration Features (~2h)](_micro_integration-features.md)
 - [ ] [Offline & Service Workers (~4h)](_micro_offline-service-workers.md)
-- [ ] [Connectivity (~2h)](_micro_connectivity.md)
+- [ ] [Connectivity (~6h)](_micro_connectivity.md)
 - [ ] [Performance Features (~2h)](_micro_performance-features.md)
 
 
