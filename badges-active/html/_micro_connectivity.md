@@ -1,7 +1,7 @@
 HTML - Connectivity [Micro Badge]
 =================================================
 
-Est. to complete: ~2h
+Est. to complete: ~6h
 
 Goals:
 ------
