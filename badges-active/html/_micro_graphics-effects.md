@@ -27,7 +27,7 @@ Choose one:
 - [ ] Canvas
 
 2) Complete the following interactive tutorial content:
-- [ ] WebGL: "INTRO" section from - [WebGL Workshop - NodeSchool](https://github.com/stackgl/webgl-workshop)
+- [ ] WebGL: The full tutorial from - [WebGL Workshop](http://webgl-workshop.com/)
 - [ ] Canvas: Make the "Space" Game from - [No Tears Guide to HTML5 Games - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/notearsgame/)
  
 3) Demonstrate how you've done all of #1 in your work or side-work
@@ -40,7 +40,6 @@ Suggested Study
 
 ### Interactive
 
-- [WebGL Workshop - NodeSchool](https://github.com/stackgl/webgl-workshop)
 - [Shader School - NodeSchool](https://github.com/stackgl/shader-school)
 
 
@@ -61,6 +60,7 @@ Suggested Study
 #### WebGL
 
   - [WebGL Setup and Triangle - Youtube](https://www.youtube.com/watch?v=kB0ZVUrI4Aw)
+  - [WebGL Workshop](http://webgl-workshop.com/)
 
 
 -----
