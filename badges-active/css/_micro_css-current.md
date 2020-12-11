@@ -45,6 +45,7 @@ Choose one:
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Sort Your Friends - Codecademy](https://www.codecademy.com/courses/web-beginner-en-jNuXw/0/1?curriculum_id=50579fb998b470000202dc8b)
+- [Free CCS Grid Course](https://cssgrid.io/)
 
 ### Web
 
