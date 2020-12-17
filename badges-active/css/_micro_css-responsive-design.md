@@ -40,7 +40,9 @@ Choose one:
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Something else creative that proves you are totally legit in this topic
+3) Consider setting up a project using something like [Tailwind CSS](https://tailwindcss.com/) and explore how to implement layouts demonstrating #1.
+
+4) Something else creative that proves you are totally legit in this topic
 
 
 -----
