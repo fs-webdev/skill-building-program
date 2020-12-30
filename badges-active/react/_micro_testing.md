@@ -55,6 +55,7 @@ while preventing the same problems from creeping back into the code.
 - [fireEvent](https://testing-library.com/docs/dom-testing-library/api-events/#fireevent)
 - [Mock a network request](https://jestjs.io/docs/en/tutorial-async)
 - [Fix the "not wrapped in act()" warning](https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning)
+- [How to test custom React hooks](https://kentcdodds.com/blog/how-to-test-custom-react-hooks)
 
 -----
 
