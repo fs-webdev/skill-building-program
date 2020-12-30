@@ -29,7 +29,7 @@ while preventing the same problems from creeping back into the code.
 - [ ] Explain why we get `act()` warnings and describe 2 ways to mitigate them.
 - [ ] Use `findBy*()` and `getBy*()` functions in tests and explain the difference between `find` and `get`.
 - [ ] Use async/await in a test function
-- [ ] Mock a network call and test both the error and success cases
+- [ ] Mock a network call in code and test both the error and success cases
 - [ ] Mock a `window` function, such as `scrollTo()`
 
 2) Demonstrate how you've done nearly all of #1 in your work or side-work
