@@ -29,15 +29,15 @@ to contribute to your team's deliverables.
 - [ ] Read all 12 [Main Concepts](https://reactjs.org/docs/hello-world.html) from Reacts Homepage (~1hr)
     - Be prepared to explain some of the concepts that are taught here
     
-2) Earn one of these:
+Then: earn one of these:
 - [ ] Go through Kent C Dodds' [Learn-React](https://github.com/fs-webdev/learn-react) guided approach.
   The README explains how to get setup and where to start
 - [ ] Follow [React Hooks Tutorial](https://www.freecodecamp.org/news/learn-react-hooks-by-building-a-paint-app/)
 - [ ] Follow [React.js: Getting Started](https://www.pluralsight.com/courses/react-js-getting-started) on Pluralsight
   
-3) Demonstrate how you've done nearly all of #1 in your work or side-work
+2) Demonstrate how you've done nearly all of #1 in your work or side-work
 
-4) Something else creative that proves you are totally legit in this topic
+3) Something else creative that proves you are totally legit in this topic
 
 -----
 
