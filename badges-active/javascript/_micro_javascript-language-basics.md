@@ -26,7 +26,7 @@ Choose one:
 1) Solve at least 10 total JavaScript coding problems on these sites, then demonstrate and show your solutions:
   - [ ] [CoderByte](http://coderbyte.com/CodingArea/Challenges/)
   - [ ] [Code Wars](http://www.codewars.com/)
-  - [ ] [HackerRank](http://www.hackerrank.com/]
+  - [ ] [HackerRank](http://www.hackerrank.com/)
 
 2) Complete the entire "Basic JavaScript" section of FreeCodeCamp [here](https://www.freecodecamp.com/map)
 
