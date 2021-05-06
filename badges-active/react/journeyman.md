@@ -1,20 +1,31 @@
 # React - Journeyman
 
-Estimated time: 15hr
+Estimated time: 16hr
 
 -----
 
 ## Goal
-- You have demonstrated the foundations in the field of React.
+- You have demonstrated foundational knowledge in React (with a "hooks" emphasis).
+
 -----
 
 ## Requirements
 
 ### Earn all of these:
-  - [ ] Read through 8 of the possible 21 [Advanced Guides](https://reactjs.org/docs/accessibility.html) on React's Docs pages 
-    Be prepared to explain what you learned
-  - [ ] Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) on React's Docs pages.
-  - [ ] [Frontier React Training Final Project (~8h)(Private)](https://almtools.ldschurch.org/fhconfluence/display/WD/React+Final+Project+Micro+Badge)
+- [ ] [Routing (~2hr)](_micro_routing.md)
+- [ ] [Hooks & State Management (~6hr)](_micro_hooks.md)
+- [ ] [Unit Testing (~3hr)](_micro_testing.md)
+
+### Then earn 2 of these:
+- [ ] [Authentication & Authorization (~2hr) (private)](https://fhconfluence.churchofjesuschrist.org/pages/viewpage.action?pageId=185959464)
+- [ ] [Internationalization (i18n) (~1hr)](_micro_i18n.md)
+- [ ] [Performance (~1hr)](_micro_performance.md)
+
+### OR, instead of all of the above, earn 1 of these:
+- [ ] [Modern React Bootcamp (~40hr)(PAID)](https://www.udemy.com/course/modern-react-bootcamp/)
+
+### Once above are met, then earn 1 of these:
+- [ ] [React - EXPLORER](_micro_EXPLORER.md)
 
 -----
 
