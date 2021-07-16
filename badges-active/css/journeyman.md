@@ -21,7 +21,7 @@ Estimated time: 7-11h
 ### Earn all of these:
 
 - [CSS Tooling and Processors (~2-3h)](_micro_css-tooling-processors.md)
-- [Large Scale CSS Architecture (~1h)](_micro_large-scale-architecture.md)
+- [Large Scale CSS Architecture (~1h)](_micro_css-large-scale-architecture.md)
 - [CSS Typography (~1-2h)](_micro_css-typography.md)
 - [CSS Best Practices & Style Guides (~1-2h)](_micro_css-best-practices-style-guides.md)
 
